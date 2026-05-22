@@ -1,4 +1,4 @@
-## 👋 Hi there, i'm Murillo  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">Hello! My name is Murillo!
 
 <!--
 **Murillo-Rocha26/Murillo-Rocha26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
