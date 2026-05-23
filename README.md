@@ -2,6 +2,9 @@
 
 - About me: 
 - Studying Software Engineering at Eniac 1/4 ( Centro Universitário de Excelência em Guarulhos )
-- Studying Python ( Flask and PyAutoGUI )
+- Studying Python ( Flask and PyAutoGUI ), C and Web Development
 - Bilingual education - Colégio Presbiteriano Bilingue
    2019 - 2025
+
+##### Contacts:
+<a href="(https://www.linkedin.com/in/murillo-rocha-robaina-a894163b6/)" target="blank"><img align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="apoorvtyagi" height="50" width="30"/></a>&nbsp;
