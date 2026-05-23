@@ -6,5 +6,8 @@
 - Bilingual education - Colégio Presbiteriano Bilingue
    2019 - 2025
 
-##### Contacts:
-<a href="https://www.linkedin.com/in/murillo-rocha-robaina/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="apoorvtyagi" height="30" width="30"/></a>&nbsp;
+##### 📬 Contact & Social
+<p align='center'>
+<a href="https://www.linkedin.com/in/murillo-rocha-robaina/" target="blank"><img align="center"          src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="apoorvtyagi" height="30" width="30"/></a>&nbsp;
+<a href="> </a>
+</p>
