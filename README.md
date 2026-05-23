@@ -8,6 +8,5 @@
 
 ##### 📬 Contact & Social
 <p align='center'>
-<a href="https://www.linkedin.com/in/murillo-rocha-robaina/" target="blank"><img align="center"          src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="apoorvtyagi" height="30" width="30"/></a>&nbsp;
-<a href="> </a>
+<a href="https://www.linkedin.com/in/murillo-rocha-robaina/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Dmitry Selikhov"></a></a>
 </p>
