@@ -7,4 +7,4 @@
    2019 - 2025
 
 ##### Contacts:
-<a href="(https://www.linkedin.com/in/murillo-rocha-robaina-a894163b6/)" target="blank"><img align="center" src="" alt="apoorvtyagi" height="50" width="30"/></a>&nbsp;
+<a href="(https://www.linkedin.com/in/murillo-rocha-robaina/)" target="blank"><img align="center" height="50" width="30"/></a>&nbsp;
