@@ -10,4 +10,5 @@
 <p align='center'>
 <a href="mailto:murillorobaina@26gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: murillorobaina26@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/murillo-rocha-robaina/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Murillo Rocha"></a>
+<a href="https://www.instagram.com/murillo_r_r_/">target="blank"><img align="center" src="https://www.svgrepo.com/show/349410/instagram.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;</a>
 </p>
