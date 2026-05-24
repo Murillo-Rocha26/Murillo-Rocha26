@@ -13,3 +13,5 @@
 <a href="https://www.linkedin.com/in/murillo-rocha-robaina/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn: Murillo Rocha"></a>
 <a href="https://www.instagram.com/murillo_r_r_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="Instagram: Murillo_r_r"></a>
 </p>
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
