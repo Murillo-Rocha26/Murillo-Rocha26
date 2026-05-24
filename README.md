@@ -13,5 +13,7 @@
 <a href="https://www.linkedin.com/in/murillo-rocha-robaina/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn: Murillo Rocha"></a>
 <a href="https://www.instagram.com/murillo_r_r_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="Instagram: Murillo_r_r"></a>
 </p>
-
+---
+<p align='center'>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</p>
