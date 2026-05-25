@@ -36,7 +36,7 @@
 ---
 
 ### 🚀 Featured Projects 
-<a href="https://github.com/Murillo-Rocha26/Sabor-express">
+<a href="">
   <img
     width="278"
     src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Murillo-Rocha26&repo=Sabor-express&theme=react&bg_color=1F222E&title_color=1E90FF&hide_border=true&icon_color=F8D866&show_icons=false"
