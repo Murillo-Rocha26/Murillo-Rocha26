@@ -39,7 +39,7 @@
 <a href="https://github.com/Murillo-Rocha26/Sabor-express">
   <img
     width="320"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Murillo-Rocha26&repo=Sabor-express&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=true"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Murillo-Rocha26&repo=Sabor-express&theme=tokyonight&bg_color=090C10&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=true"
     alt="Sabor Express">
 </a>
 
