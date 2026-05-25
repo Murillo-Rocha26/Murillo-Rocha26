@@ -36,9 +36,13 @@
 ---
 
 ### 🚀 Featured Projects 
-<a href="https://github.com/Murillo-Rocha26/Sabor-express/tree/main">
-    Sabor Express
-</a>
+<div class="card" style="width: 18rem;">
+<div class="card-body">
+<h5 class="card-title">Sabor Express</h5>
+<p class="card-text">Sabor Express is a multi-service food delivery platform inspired by iFood, Keeta, and Uber Eats, offering food, products, and services from multiple stores in one place. ( Currently in development using Python ) </p>
+<a href="https://github.com/Murillo-Rocha26/Sabor-express/tree/main" class="card-link">Card link</a>
+</div>
+</div>
 
 ---
 ### 🛠️ Frameworks
