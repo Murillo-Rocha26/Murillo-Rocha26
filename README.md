@@ -1,10 +1,13 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">Hello! My name is Murillo!
 
-- About me: 
-- Studying Software Engineering at Eniac 1/4 ( Centro Universitário de Excelência em Guarulhos )
-- Studying Python ( Flask and PyAutoGUI ), C and Web Development
-- Bilingual education - Colégio Presbiteriano Bilingue
-   2019 - 2025
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering student at Centro Universitário Eniac (1/4)
+- 🐍 Studying Python with Flask and PyAutoGUI
+- 💻 Learning C and Web Development
+- 🌎 Bilingual education at Colégio Presbiteriano Bilíngue (2019 – 2025)
+- 🚀 Passionate about technology and software development
+
 
 ## Table of contents
 - [📬 Contact & Social](#-contact--social)
@@ -27,14 +30,15 @@
 <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
-### 💻🙍‍♂️ My projects 
+### 🚀 Featured Projects 
 
 ### 🛠️ Frameworks
+<p align="center">
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00CCFF)
-![Dev C](https://img.shields.io/badge/Dev_C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Dev C++](https://img.shields.io/badge/Dev_C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Jupter Notebook](https://img.shields.io/badge/Jupyter_Notebook-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
+</p>
 
 ### 📬 Contact & Social
 ---
