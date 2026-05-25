@@ -12,14 +12,9 @@
 ## Table of contents
 - [📬 Contact & Social](#-contact--social)
 - [💻💼 My skills](#-my-skills)
-- [💻🙍‍♂️ My projects](#-my-projects)
+- [🚀 Featured Projects ](#-featured-projects)
 - [🛠️ Frameworks](#-frameworks)
 ---
-
-
-
-
-
 
 ### 💻💼 My skills
 
