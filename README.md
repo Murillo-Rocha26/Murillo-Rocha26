@@ -22,7 +22,7 @@
 - [💻💼 My skills](#-my-skills)
 - [🚀 Featured Projects ](#-featured-projects)
 - [🛠️ Frameworks](#-frameworks)
-- 
+
 ---
 
 ### 💻💼 My skills
