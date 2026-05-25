@@ -37,9 +37,8 @@
 
 ### 🚀 Featured Projects 
 <a href="https://github.com/Murillo-Rocha26/Sabor-express/tree/main">
-  <img width="278" src="https://github.com/Murillo-Rocha26/Sabor-express/tree/main"alt="Sabor Express"></a>
- <a href="https://github.com/Murillo-Rocha26/Sabor-express/tree/main">
-
+    Sabor Express
+</a>
 
 ---
 ### 🛠️ Frameworks
