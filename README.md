@@ -33,13 +33,12 @@
 ### 🚀 Featured Projects 
 
 ### 🛠️ Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-</p>
+<div align="center")
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00CCFF)
+![Dev C++](https://img.shields.io/badge/Dev_C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Jupter Notebook](https://img.shields.io/badge/Jupyter_Notebook-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
+<</div>
 
 ### 📬 Contact & Social
 ---
