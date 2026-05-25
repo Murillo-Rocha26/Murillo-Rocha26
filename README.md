@@ -39,7 +39,8 @@
 <div class="card" style="width: 278;">
 <img src="https://github.com/Murillo-Rocha26/Sabor-express/tree/main" class="card-img-top" alt="Sabor Express">
 <div class="card-body">
-<p class="card-text">Sabor Express is a multi-service food delivery platform inspired by iFood, Keeta, and Uber Eats, offering food, products, and services from multiple stores in one place. (Currently in development using Python).</p>
+<p class="card-text">Sabor Express is a multi-service food delivery platform inspired by iFood, Keeta, and Uber Eats, offering food, products, and services from multiple stores in one place. (Currently in development using Python).
+</p>
 </div>
 </div>
 
