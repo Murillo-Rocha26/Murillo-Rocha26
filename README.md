@@ -2,18 +2,26 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at Centro Universitário Eniac (1/4)
+- 🎓 Software Engineering student at Centro Universitário Eniac ( Feb 2026 - Dec 2030 )
 - 🐍 Studying Python with Flask and PyAutoGUI
 - 💻 Learning C and Web Development
 - 🌎 Bilingual education at Colégio Presbiteriano Bilíngue (2019 – 2025)
 - 🚀 Passionate about technology and software development
 
+## 📚 Learning Progress
+
+- 🎓 Software Engineering (Started Feb 2026) — 10%
+- 🐍 Python — 60% (automation, Flask basics)
+- 🌐 Web Development — 25% (HTML & CSS)
+- ⚙️ C Programming — 20% (fundamentals)
+---
 
 ## Table of contents
 - [📬 Contact & Social](#-contact--social)
 - [💻💼 My skills](#-my-skills)
 - [🚀 Featured Projects ](#-featured-projects)
 - [🛠️ Frameworks](#-frameworks)
+- 
 ---
 
 ### 💻💼 My skills
@@ -24,9 +32,12 @@
 <img src="https://skillicons.dev/icons?i=css"/>
 <img src="https://skillicons.dev/icons?i=c" />
 </p>
-
+---
 ### 🚀 Featured Projects 
 
+
+
+---
 ### 🛠️ Frameworks
 <div align="center">
 
@@ -37,8 +48,9 @@
 
 </div>
 
-### 📬 Contact & Social
 ---
+### 📬 Contact & Social
+
 <p align='center'>
 <a href="mailto:murillorobaina@26gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: murillorobaina26@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/murillo-rocha-robaina/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn: Murillo Rocha"></a>
