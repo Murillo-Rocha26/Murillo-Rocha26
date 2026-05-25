@@ -36,14 +36,22 @@
 ---
 
 ### 🚀 Featured Projects 
-<div class="card" style="width: 18rem;">
+<link
+  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+  rel="stylesheet">
+
+<div class="card" style="width: 22rem;">
 <div class="card-body">
 <h5 class="card-title">Sabor Express</h5>
-<p class="card-text">Sabor Express is a multi-service food delivery platform inspired by iFood, Keeta, and Uber Eats, offering food, products, and services from multiple stores in one place. ( Currently in development using Python ) </p>
-<a href="https://github.com/Murillo-Rocha26/Sabor-express/tree/main" class="card-link">Card link</a>
+<p class="card-text">Sabor Express is a multi-service food delivery platform inspired by iFood, Keeta, and Uber Eats, offering food, products, and services from multiple stores in one place. (Currently in development using Python)   
+  </p>
+    <a href="https://github.com/Murillo-Rocha26/Sabor-express/tree/main"
+      class="card-link"
+      target="_blank"
+      rel="noopener noreferrer">
+    </a>
+  </div>
 </div>
-</div>
-
 ---
 ### 🛠️ Frameworks
 <div align="center">
