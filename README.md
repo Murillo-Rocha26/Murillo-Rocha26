@@ -18,6 +18,7 @@
 
 ## Table of contents
 - [📬 Contact & Social](#-contact--social)
+- [📚 Learning Progress](#-learning-progress)
 - [💻💼 My skills](#-my-skills)
 - [🚀 Featured Projects ](#-featured-projects)
 - [🛠️ Frameworks](#-frameworks)
