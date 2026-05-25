@@ -33,12 +33,12 @@
 ### 🚀 Featured Projects 
 
 ### 🛠️ Frameworks
-
+<div align="center">
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00CCFF)
 ![Dev C++](https://img.shields.io/badge/Dev_C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Jupter Notebook](https://img.shields.io/badge/Jupyter_Notebook-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
+</div>
 
 ### 📬 Contact & Social
 ---
